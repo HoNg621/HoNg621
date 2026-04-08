@@ -8,9 +8,21 @@ I received undergraduate training at Jilin University and rotated through severa
 - Cytoophidia formation under nutrient deprivation ([Liu Lab](https://scholar.google.com/citations?user=CevGXO0AAAAJ&hl=en))
 - Generation of mosaic knockout mouse models ([Chi Lab](https://www.researchgate.net/profile/Tian-Chi))
 
-During my Ph.D., I worked with Dr. Yun Bai to study mRNA translation delays during meiosis from an RNA structure perspective by profiling the meiotic structurome in yeast. Although **no** significant correlation was found between structural changes and translation efficiency changes, I noticed that meiotic mRNAs adopt relatively simpler structures. This observation led me to uncover a high-low-high oscillatory translational preference for RNA structure during meiosis, driven by the same oscillatory expression of RNA helicases. This work suggests that cells can reallocate translational resources across transcripts with different structural complexities by modulating overall unwinding power—a post-transcriptional regulatory layer whose role becomes crucial and dominant during cell divisions when DNA transcription is limited. (See our paper: [RNA structure coordinates translation across the meiotic program](https://www.biorxiv.org/content/10.64898/2026.01.15.699792v2))
+During my Ph.D., I worked with Dr. Yun Bai to study mRNA translation delays during meiosis from an RNA structure perspective by profiling the meiotic structurome in yeast. Although **no correlation** was found between changes in RNA structure and translation efficiency (*that's life*), I noticed that meiotic mRNAs adopt relatively simpler structures. This observation led me to uncover a high-low-high oscillatory translational preference for RNA structure during meiosis, driven by the same oscillatory expression of RNA helicases. This work suggests that cells can reallocate translational resources across transcripts with different structural complexities by modulating overall unwinding power—a post-transcriptional regulatory layer whose role becomes crucial and dominant during cell divisions when DNA transcription is limited. (See our paper: [RNA structure coordinates translation across the meiotic program](https://www.biorxiv.org/content/10.64898/2026.01.15.699792v2
+        
+        
+        
+        
+        
+        ))
 
-I also identified a subset of mRNAs showing unique structural change patterns—a widespread decrease in chemical reactivity—which hinted at double-stranded RNA (dsRNA) formation. I validated the formation of dsRNA aggregates before the first meiotic division and traced their transport to vacuoles for degradation. Furthermore, classical meiotic transcription factors—Ndt80p and Ume6p—were identified as activators of stage-specific antisense RNA biogenesis. This work demonstrates that dsRNAs can be broadly present in eukaryotes and highlights the dual role of transcription factors in reshaping the transcriptome. (See our paper: [Programmed double-stranded RNA formation enables meiotic stage transitions](https://www.biorxiv.org/content/10.64898/2026.01.20.700650v1))
+I also identified a subset of mRNAs showing unique structural change patterns—a widespread decrease in chemical reactivity—which hinted at double-stranded RNA (dsRNA) formation. I validated the formation of dsRNA aggregates before the first meiotic division and traced their transport to vacuoles for degradation. Furthermore, classical meiotic transcription factors—Ndt80p and Ume6p—were identified as activators of stage-specific antisense RNA biogenesis. This work demonstrates that dsRNAs can be broadly present in eukaryotes and highlights the dual role of transcription factors in reshaping the transcriptome. (See our paper: [Programmed double-stranded RNA formation enables meiotic stage transitions](https://www.biorxiv.org/content/10.64898/2026.01.20.700650v1
+        
+        
+        
+        
+        
+        ))
 
 Tragically, 29 days after my graduation ceremony, I received the devastating news that Yun had passed away—without ever having revealed her illness to us. That profound loss made me realize how far medicine still has to go and how long the road ahead is for us researchers. Given that the majority of proteins remain undruggable, I commit to the field of small-molecule RNA targeting, carrying forward Yun's legacy—her knowledge and spirit. My ultimate hope is to contribute alternative tools to combat cancer.
 
