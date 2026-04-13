@@ -14,7 +14,7 @@ In a related work, I identified the formation of double-stranded RNA aggregates 
 
 Tragically, Yun passed away in July 2023, one month after my graduation, without ever revealing her illness to us. This profound loss made me realize how long the journey ahead is for us researchers, and reshaped my career trajectory toward RNA-targeted therapeutics. Given that the majority of proteins remain undruggable, RNA offers an alternative and largely untapped landscape for therapeutic intervention. My long-term goal is to develop RNA structure-based strategies to combat diseases such as cancer. 
 
-Later in 2023, I joined the Weeks Lab at UNC Chapel Hill, where I am currently developing chemical probes to identify complex and targetable tertiary structures across the human transcriptome. This work is ongoing, with more findings to come.
+Later in 2023, I joined the [Weeks Lab](https://scholar.google.com/citations?user=Rd25YeUAAAAJ&hl=en) at UNC Chapel Hill, where I am currently developing chemical probes to identify complex and targetable tertiary structures across the human transcriptome. This work is ongoing, with more findings to come.
 
 As Yun once wrote in a message celebrating my graduation:
 *“What’s past is prologue.”*
